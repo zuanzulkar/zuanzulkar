@@ -1,79 +1,248 @@
-<h2 align="center">
-  Hi there! I'm Zulkarnaen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎨 ZULKARNAEN'S SIGNATURE PROFILE - A Unique Digital Identity -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Laravel+Specialist;React+%26+Developer;Flutter+Mobile+Dev;Clean+Code+Enthusiast" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3PfvYIynOG/giphy.gif" alt="Coding GIF" width="100%">
-</div>
-
-<h2 align="left">🛠 Technologies and Tools I use:</h2>
-
-<p align="left">
-  <a href="https://laravel.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> 
-  </a>
-  <a href="https://flutter.dev/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/> 
-  </a>
   
-  <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
-  </a>
-  <a href="https://dart.dev/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/> 
-  </a>
+<!-- Animated Header Wave - Orange Theme -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ea580c,100:fb923c&height=120&section=header&animation=fadeIn"/>
 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
-  </a>
-  <a href="https://www.postman.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/> 
-  </a>
+<!-- Custom Terminal Style Introduction -->
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   ███████╗██╗   ██╗██╗     ██╗  ██╗ █████╗ ██████╗ ███╗   ██╗ █████╗ ███████╗███╗   ██╗   │
+│   ╚══███╔╝██║   ██║██║     ██║ ██╔╝██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔════╝████╗  ██║   │
+│     ███╔╝ ██║   ██║██║     █████╔╝ ███████║██████╔╝██╔██╗ ██║███████║█████╗  ██╔██╗ ██║   │
+│    ███╔╝  ██║   ██║██║     ██╔═██╗ ██╔══██║██╔══██╗██║╚██╗██║██╔══██║██╔══╝  ██║╚██╗██║   │
+│   ███████╗╚██████╔╝███████╗██║  ██╗██║  ██║██║  ██║██║ ╚████║██║  ██║███████╗██║ ╚████║   │
+│   ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝   │
+│                                                                              │
+│                    「 Crafting Digital Excellence 」                         │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+<!-- Animated Role Banner - Orange Color -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9C%A8+Full+Stack+Artisan+%E2%9C%A8;Laravel+%7C+React+%7C+Flutter+Specialist" alt="Typing SVG" />
+</a>
+
+<!-- Dynamic Badges with Orange Gradient Style -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-f97316?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Living-Indonesia-ea580c?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Languages-Indonesian%20%26%20English-fb923c?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<!-- Profile Views Counter with Orange Style -->
+<img src="https://komarev.com/ghpvc/?username=zuanzulkar&style=for-the-badge&color=f97316&labelColor=1a1a2e&label=PROFILE+VISITORS"/>
 
-- 🔭 I’m currently working on **Advanced School Management Systems & Monolith Apps**.
-- 🌱 I’m currently deep diving into **Laravel Ecosystem & Flutter Optimization**.
-- 💻 My main stack is **Laravel (Backend), React (Frontend), and Flutter (Mobile)**.
-- 🚀 I strive to write clean, maintainable, and efficient code.
-- ⚡ Fun fact: I can turn complex logic into simple, elegant interfaces.
+</div>
 
-<br>
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="left">🤝 Let's get connected:</h2>
+<!-- About Section with Unique Design -->
+<table align="center">
+<tr>
+<td width="50%">
 
-<p align="left">
+## 🎯 **The Developer**
 
-  <a href="mailto:zuanzulkar@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/zulkrr_">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+```javascript
+const zulkarnaen = {
+    code: ["PHP", "JavaScript", "Dart", "TypeScript"],
+    architect: ["Clean Architecture", "DDD", "Microservices"],
+    currentFocus: {
+        backend: "Laravel Ecosystem",
+        frontend: "React & Next.js",
+        mobile: "Flutter Excellence"
+    },
+    philosophy: "Transform complexity into elegance",
+    funFact: "I debug with ☕ and 🎵"
+};
+```
 
-<br>
+</td>
+<td width="50%">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuanzulkar&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=a9a9b3&ring_color=ea580c" width="300"/>
 </div>
+
+</td>
+</tr>
+</table>
+
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Tech Stack Section with Orange Theme -->
+<div align="center">
+  
+## ⚡ **Technology Arsenal**
+
+<!-- Primary Stack -->
+<h3>🚀 Primary Stack</h3>
+
+<a href="https://laravel.com/">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://reactjs.org/">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e"/>
+</a>
+<a href="https://flutter.dev/">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://nextjs.org/">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+<!-- Languages -->
+<h3>💻 Languages</h3>
+
+<a href="https://www.php.net/">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e"/>
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://dart.dev/">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+<!-- Tools & Platforms -->
+<h3>🛠️ Tools & Platforms</h3>
+
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://redis.io/">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://tailwindcss.com/">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+</div>
+
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Current Focus Section -->
+<div align="center">
+
+## 🔮 **Current Endeavors**
+
+<table>
+<tr>
+<td align="center" width="33%">
+  
+**🏗️ Building**
+  
+Advanced School<br/>Management Systems<br/>& Monolith Apps
+
+</td>
+<td align="center" width="33%">
+  
+**📚 Learning**
+  
+Deep diving into<br/>Laravel Ecosystem &<br/>Flutter Optimization
+
+</td>
+<td align="center" width="33%">
+  
+**🎯 Goal**
+  
+Writing clean,<br/>maintainable, and<br/>efficient code
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Stats Section with Orange Theme -->
+<div align="center">
+
+## 📊 **GitHub Analytics**
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zuanzulkar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=a9a9b3&icon_color=ea580c&ring_color=fb923c"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=zuanzulkar&hide_border=true&background=0D1117&ring=f97316&fire=fb923c&currStreakLabel=ea580c&sideLabels=a9a9b3&currStreakNum=f97316&sideNums=a9a9b3&dates=a9a9b3"/>
+
+<!-- Activity Graph - Orange Theme -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zuanzulkar&bg_color=0d1117&color=f97316&line=ea580c&point=fb923c&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity"/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zuanzulkar/zuanzulkar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zuanzulkar/zuanzulkar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zuanzulkar/zuanzulkar/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Connect Section with Orange Styling -->
+<div align="center">
+
+## 🌐 **Let's Connect**
+
+<a href="mailto:zuanzulkar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-f97316?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://instagram.com/zulkrr_">
+  <img src="https://img.shields.io/badge/Instagram-ea580c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://linkedin.com/in/zuanzulkar">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://github.com/zuanzulkar">
+  <img src="https://img.shields.io/badge/GitHub-fb923c?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+</div>
+
+<!-- Quote Section -->
+<div align="center">
+  <br/>
+  
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║   "Code is poetry, architecture is art, and debugging is meditation."     ║
+║                                                    — Zulkarnaen            ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- Footer Wave - Orange Theme -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ea580c,100:fb923c&height=120&section=footer"/>
+
+<!-- Hidden Easter Egg -->
+<!-- 
+  ╔══════════════════════════════════════════════════════════════════════════╗
+  ║  🎉 You found the secret! Thanks for visiting!                          ║
+  ║     May your code compile on the first try! 🔥                           ║
+  ╚══════════════════════════════════════════════════════════════════════════╝
+-->

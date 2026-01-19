@@ -1,0 +1,48 @@
+# ═══════════════════════════════════════════════════════════════════════════
+# 🐍 GitHub Contribution Snake Animation
+# This workflow generates a snake animation that eats your contributions
+# ═══════════════════════════════════════════════════════════════════════════
+
+name: Generate Snake Animation
+
+on:
+  # Runs at 00:00 UTC every day
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Allows manual trigger from Actions tab
+  workflow_dispatch:
+  
+  # Runs on push to main/master branch
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Generate snake animation SVG
+      - name: 🐍 Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#f97316,#ea580c,#c2410c,#7c2d12
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # Push the generated files to output branch
+      - name: 📤 Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "🐍 Update snake animation"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

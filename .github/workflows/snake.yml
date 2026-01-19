@@ -24,18 +24,22 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
+    permissions:
+      contents: write
+    
     steps:
-      # Generate snake animation SVG
+      # Checkout repository
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+      
+      # Generate snake animation SVG using stable version
       - name: 🐍 Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#f97316,#ea580c,#c2410c,#7c2d12
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       # Push the generated files to output branch
       - name: 📤 Push to Output Branch

@@ -48,39 +48,7 @@
 <tr>
 <td width="50%">
 
-## 🎯 **The Developer**
 
-```javascript
-const zulkarnaen = {
-    code: ["PHP", "JavaScript", "Dart", "TypeScript"],
-    architect: ["Clean Architecture", "DDD", "Microservices"],
-    currentFocus: {
-        backend: "Laravel Ecosystem",
-        frontend: "React & Next.js",
-        mobile: "Flutter Excellence"
-    },
-    philosophy: "Transform complexity into elegance",
-    funFact: "I debug with ☕ and 🎵"
-};
-```
-
-</td>
-<td width="50%">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuanzulkar&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=a9a9b3&ring_color=ea580c" width="300"/>
-</div>
-
-</td>
-</tr>
-</table>
-
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Tech Stack Section with Orange Theme -->
-<div align="center">
-  
 ## ⚡ **Technology Arsenal**
 
 <!-- Primary Stack -->
@@ -95,9 +63,7 @@ const zulkarnaen = {
 <a href="https://flutter.dev/">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://nextjs.org/">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a1a2e"/>
-</a>
+
 
 <!-- Languages -->
 <h3>💻 Languages</h3>
@@ -121,9 +87,7 @@ const zulkarnaen = {
 <a href="https://www.mysql.com/">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://redis.io/">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e"/>
-</a>
+
 <a href="https://www.docker.com/">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e"/>
 </a>
@@ -145,41 +109,6 @@ const zulkarnaen = {
 <!-- Current Focus Section -->
 <div align="center">
 
-## 🔮 **Current Endeavors**
-
-<table>
-<tr>
-<td align="center" width="33%">
-  
-**🏗️ Building**
-  
-Advanced School<br/>Management Systems<br/>& Monolith Apps
-
-</td>
-<td align="center" width="33%">
-  
-**📚 Learning**
-  
-Deep diving into<br/>Laravel Ecosystem &<br/>Flutter Optimization
-
-</td>
-<td align="center" width="33%">
-  
-**🎯 Goal**
-  
-Writing clean,<br/>maintainable, and<br/>efficient code
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GitHub Stats Section with Orange Theme -->
-<div align="center">
 
 ## 📊 **GitHub Analytics**
 
@@ -238,11 +167,3 @@ Writing clean,<br/>maintainable, and<br/>efficient code
 
 <!-- Footer Wave - Orange Theme -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ea580c,100:fb923c&height=120&section=footer"/>
-
-<!-- Hidden Easter Egg -->
-<!-- 
-  ╔══════════════════════════════════════════════════════════════════════════╗
-  ║  🎉 You found the secret! Thanks for visiting!                          ║
-  ║     May your code compile on the first try! 🔥                           ║
-  ╚══════════════════════════════════════════════════════════════════════════╝
--->
